@@ -1,0 +1,1839 @@
+fileFormatVersion: 2
+guid: 5f8d7b4fcb53961428413c21980355d9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e89c1605fa4b334fa71981f09ebc304
+      internalID: -526579525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 374.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50566f88425f2c94cbd99e3aa7ac7e10
+      internalID: 1879394819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 374.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923a629d16ed4514ebe42d2316cbee76
+      internalID: -703208845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 374.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74616e39322ced14abf731ec7fd352b6
+      internalID: -1602317555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 374.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be927860e253c104c83457187d843183
+      internalID: -1898185958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 374.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89417069d1cb6ba46826d6677ff9bc11
+      internalID: 141753420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 374.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33576ffdb21a81948b1d062f4103b853
+      internalID: -1694448080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 374.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a570cfda0731d45bcd40061fb068a4
+      internalID: -566468441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39352f548c5a8ab4f98587e1ac3193bf
+      internalID: 1282028534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 333.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf9913d4b8aa16419af5ec7df39a5c0
+      internalID: 1513058213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 333.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2131b4082584ab4abb60326536ea29a
+      internalID: 213615320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 333.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3ca7dd1f40a9a48aeeb8d1562bb3a0
+      internalID: 1163261210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 333.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc8f82fb701c2f4abf47b421f7f16ab
+      internalID: -78802573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 333.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb216f42470dd64c8d5e5bc3bd110d5
+      internalID: -1411276846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_14
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 333.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212f067124ca53b4fa3e6203a02a187d
+      internalID: 420375665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 333.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6502899141588b45ba59a20855e8e4b
+      internalID: 1020030052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d30469b4d249234b852df8e9d34ccb5
+      internalID: 250043436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 292.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f776958091342f4bb7ed9ba106bff28
+      internalID: 402325397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 292.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c0a6d52abc05a488a5e7a251560d97
+      internalID: 353551147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 292.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d72e4edb26ca647a9e7b9152d29afd
+      internalID: -440837595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 292.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35b26ebe5df6ef43b11b7f645f8845d
+      internalID: -1545671076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 292.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0b0e8c4215e0e419b7061683f09529
+      internalID: 454466758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 292.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cdfe1c35dd4644da4e3995f52742d6
+      internalID: -1076758254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 292.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09064565ec836146883366c6da8a908
+      internalID: -507525602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166af85ec4eb74346990d3584e870a9c
+      internalID: -1060723429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 251.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a53d2148e446940aa405bd9e46b66f
+      internalID: -941268910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 251.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecff3bcb47c36ea4d96221cbbafc102b
+      internalID: 1269967856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_27
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 251.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9381eb0ffe4e248469655f9e08b232f7
+      internalID: 532269572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 251.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d736e1af90b3142a5bd2fc4130a270
+      internalID: -444657614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 251.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dad0dd8f64fc1b41b600ce9742400d4
+      internalID: -1647757411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 251.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b22d3bd98c5f64698b1549eda8bd4d
+      internalID: -1732834117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_31
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 251.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b14a3754ea4ec74689260841f525812
+      internalID: -504452070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45651585abf9294c9984479aeacc732
+      internalID: -735141590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 210.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b4476b098997146bb610aacc6b965b
+      internalID: -1043922106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 210.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8619ec6f5e70bc746bb0cab459e76758
+      internalID: 908297190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 210.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b66701ed1bac541b03350ad007b9d9
+      internalID: -2152180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 210.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1132d8058e28e8c45ba823a1b323223a
+      internalID: 409019663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_37
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 210.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c15bfaddf4584478fdab3af80e83f2
+      internalID: 1784191982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 210.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43451a3ff67447347ac8c95d68db5048
+      internalID: -876460082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_39
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 210.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eca8f0967ebd041be45e34acfd86b9
+      internalID: 1270918496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521085388dfd90d45ba1cae0ec9a05e9
+      internalID: -888076066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 169.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8c5621283fe0c45ab42c74033ad096
+      internalID: -1785852507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 169.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04550f50b24590d47a8f87ed5c130c95
+      internalID: 174094701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 169.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84156a56eefca7540a0496ac62a9b765
+      internalID: 1086235760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 169.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e92d9025759054ba84a98e7cd8966e
+      internalID: -262906529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 169.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dc92b166451474da4a19965eacdd44
+      internalID: -292246893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 169.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ebf950651a1824c84cf4d8c57671d7
+      internalID: 2136708742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_47
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 169.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a33807ef49647498bac93d106b8afb
+      internalID: 1262333780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fb3a0021e976945a3c5321d4b2ce12
+      internalID: -1144901445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 128.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e0eb0f50044dd498d3f28a1a28572e
+      internalID: 2132133807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186074fc8e7676e41b33a6a191132c87
+      internalID: -318314679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 128.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fa6bbc2d96bed408704ccde579f7fd
+      internalID: 1303448999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d4bf1e00409ba49aff2d1c47afa153
+      internalID: 403734458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_53
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 128.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c162307043eca454ca1d1cce9f5b2d63
+      internalID: -1461143747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_54
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 128.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15172749f017e004784a3ef1a868d030
+      internalID: 1770948099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_55
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 128.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dbe8cbbb7eb27499a38af6c6a227a4
+      internalID: 940683666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160dabac96aeacf42b61637ff0dc5559
+      internalID: -1926463807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_57
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 87.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69d7d8463092ea4ba8513a0c9b4c9fb
+      internalID: -222597569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_58
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 87.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74035d80e17ec2a4d9f28d787b87095a
+      internalID: 959909147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_59
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 87.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0255f97241f4078458ddd84107cebe0e
+      internalID: 366796509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 87.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df29d331f4dbf704aafb8c3943ca6e75
+      internalID: -1902590704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 87.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15b91192c4d7f84b841ead789994912
+      internalID: -1992858463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 87.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca18384909e01249a6bbd0052428ea1
+      internalID: -1959046756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_63
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 87.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491e85e059782c340a6fa14b02a06713
+      internalID: 1973717881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5afa40e90fc8844ab053e45918c5f9a
+      internalID: -1553938341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_65
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 46.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d717a7a22f66944bb8a6c2abf2b44f
+      internalID: -1375609122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_66
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 46.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529c9655d89ada9418fe27f3f38f5481
+      internalID: 141788390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_67
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 46.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ca4df8f85c51f4a9d433076d8330c8
+      internalID: 1060376234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 46.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa20c566f3689a4c888ec11bc060c67
+      internalID: -1328062804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_69
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 46.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f573518384a95e84da3c53f06eee4c81
+      internalID: -214460372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_70
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 46.4
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ea1e27e5cf5f14d9987f4a9ebcb6ab
+      internalID: -791469392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5.4000015
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02a12f6cd232ef48bbfd87163cb2aab
+      internalID: 1524184309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_72
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5.4000015
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376d3e6abda049f4fb5f0631c8161158
+      internalID: 1550164811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 5.4000015
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4059644dbdde44f84b24e7f6ed5d04
+      internalID: 2082211811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_74
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 5.4000015
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd19e9b171499204081f959f90b30fc9
+      internalID: -568684201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 5.4000015
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938de3d3c0d26384ba8c683a739a2a40
+      internalID: 1650193233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_76
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 5.4000015
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519e1a7a648672f4db9fdc712de5d338
+      internalID: -789962740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_77
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 5.4000015
+        width: 36
+        height: 41.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a494b39b68f6144d8cf7a8fd7e20f42
+      internalID: 609197246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_66: 141788390
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_16: 250043436
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_3: -1602317555
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_17: 402325397
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_10: 213615320
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_61: -1992858463
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_43: 1086235760
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_42: 174094701
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_71: 1524184309
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_72: 1550164811
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_23: -507525602
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_76: -789962740
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_60: -1902590704
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_52: 403734458
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_65: -1375609122
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_50: -318314679
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_55: 940683666
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_64: -1553938341
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_7: -566468441
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_35: -2152180
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_12: -78802573
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_0: -526579525
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_4: -1898185958
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_25: -941268910
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_57: -222597569
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_63: 1973717881
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_22: -1076758254
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_40: -888076066
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_13: -1411276846
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_37: 1784191982
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_1: 1879394819
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_18: 353551147
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_73: 2082211811
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_74: -568684201
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_32: -735141590
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_5: 141753420
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_62: -1959046756
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_6: -1694448080
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_58: 959909147
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_54: 1770948099
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_8: 1282028534
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_21: 454466758
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_53: -1461143747
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_14: 420375665
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_26: 1269967856
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_29: -1647757411
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_70: -791469392
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_19: -440837595
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_27: 532269572
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_69: -214460372
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_39: 1270918496
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_75: 1650193233
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_77: 609197246
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_59: 366796509
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_36: 409019663
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_15: 1020030052
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_48: -1144901445
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_24: -1060723429
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_67: 1060376234
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_49: 2132133807
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_11: 1163261210
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_2: -703208845
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_34: 908297190
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_38: -876460082
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_33: -1043922106
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_30: -1732834117
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_47: 1262333780
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_31: -504452070
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_9: 1513058213
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_20: -1545671076
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_51: 1303448999
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_44: -262906529
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_28: -444657614
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_46: 2136708742
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_41: -1785852507
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_56: -1926463807
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_68: -1328062804
+      tilesetHouse_with_monsterfaceoinwall_and_bloodonfloorandwall_45: -292246893
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
